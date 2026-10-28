@@ -1,0 +1,24 @@
+{
+  "name": "hachimo",
+  "displayName": "Hachimo",
+  "version": "1.0.0",
+  "description": "Keep your English lessons, review cards and daily study plan in Hachimo through Hachimo's hosted MCP server. Requires a Hachimo Pro subscription.",
+  "author": {
+    "name": "ProtoductAI Inc.",
+    "email": "support@protoductai.com"
+  },
+  "homepage": "https://mcp.hachimo.protoductai.com",
+  "repository": "https://github.com/Protoduct-AI/hachimo-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "english",
+    "language-learning",
+    "vocabulary",
+    "spaced-repetition",
+    "education",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
